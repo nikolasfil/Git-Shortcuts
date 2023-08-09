@@ -1,0 +1,1 @@
+/home/figaro/Programms/Bash/GitShortcuts/gclone_function.sh
